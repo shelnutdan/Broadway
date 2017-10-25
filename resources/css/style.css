@@ -1,0 +1,24 @@
+.header {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  text-align: center;
+  color: white ;
+}
+.midsection {
+  text-align: center;
+}
+.separater {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  text-align: center;
+  color: white ;
+}
+.lowersection {
+  text-align: center;
+}
+.ticker{
+  background-color: dimgray;
+  font-size: 11px
+  color:white;
+}
+a {
+  color: white;
+}
